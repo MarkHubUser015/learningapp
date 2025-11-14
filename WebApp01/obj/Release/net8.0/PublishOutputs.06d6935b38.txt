@@ -1,0 +1,7 @@
+C:\Data_Restore\Training\Udemy\AZ-204 Developing Solutions for Microsft Azure\MyCode\ASPNetSolution\WebApp01\bin\Publish\WebApp01.exe
+C:\Data_Restore\Training\Udemy\AZ-204 Developing Solutions for Microsft Azure\MyCode\ASPNetSolution\WebApp01\bin\Publish\appsettings.Development.json
+C:\Data_Restore\Training\Udemy\AZ-204 Developing Solutions for Microsft Azure\MyCode\ASPNetSolution\WebApp01\bin\Publish\appsettings.json
+C:\Data_Restore\Training\Udemy\AZ-204 Developing Solutions for Microsft Azure\MyCode\ASPNetSolution\WebApp01\bin\Publish\WebApp01.dll
+C:\Data_Restore\Training\Udemy\AZ-204 Developing Solutions for Microsft Azure\MyCode\ASPNetSolution\WebApp01\bin\Publish\WebApp01.deps.json
+C:\Data_Restore\Training\Udemy\AZ-204 Developing Solutions for Microsft Azure\MyCode\ASPNetSolution\WebApp01\bin\Publish\WebApp01.runtimeconfig.json
+C:\Data_Restore\Training\Udemy\AZ-204 Developing Solutions for Microsft Azure\MyCode\ASPNetSolution\WebApp01\bin\Publish\WebApp01.pdb
